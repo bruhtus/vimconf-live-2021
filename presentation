@@ -1,0 +1,29 @@
+A quick way to
+access normal mode command
+from insert mode
+
+Why?
+- efficient
+- control undo point
+- control ctrl-u behaviour
+
+How?
+- alt or meta key + normal mode command
+- ctrl-o
+
+It's showtime!
+
+The weird alt-a
+
+Suggestion
+" Ref: https://vi.stackexchange.com/a/2363/34851
+if !has('nvim') | execute "set <M-a>=\ea" | endif
+inoremap <M-a> <C-o>a
+
+Weirdo alt-~
+
+Suggestion
+if !has('nvim') | execute "set <M-~>=\e~" | endif
+inoremap <M-~> <C-o>~<C-[>
+
+End
