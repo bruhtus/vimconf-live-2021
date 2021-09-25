@@ -1,7 +1,7 @@
 <<'RESOURCES'
 
 Links:
-https://github.com/bruhtus/vimconf-2021 (presentation and demo)
+https://github.com/bruhtus/vimconf-live-2021 (presentation and demo)
 https://github.com/bruhtus/dotfiles/tree/master/.config/nvim (neovim config, in vim script)
 https://github.com/bruhtus/vimrc (one-file and minimal version of neovim config)
 https://github.com/bruhtus/dotfiles/blob/master/.config/nvim/after/autoload/pack.vim (plugins that I used)
