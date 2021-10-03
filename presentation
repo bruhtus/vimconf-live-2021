@@ -20,10 +20,4 @@ suggestion
 if !has('nvim') | execute "set <M-a>=\ea" | endif
 inoremap <M-a> <C-o>a
 
-weirdo alt-~
-
-suggestion
-if !has('nvim') | execute "set <M-~>=\e~" | endif
-inoremap <M-~> <C-o>~<C-[>
-
 endslide
