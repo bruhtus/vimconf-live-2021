@@ -3,9 +3,8 @@ access normal mode command
 from insert mode
 
 why?
-- efficient
-- control undo point
-- control ctrl-u behaviour
+- convenient
+- break the undo sequence easily
 
 how?
 - alt or meta key + normal mode command
