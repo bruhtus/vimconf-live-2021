@@ -4,7 +4,6 @@ Links:
 https://github.com/bruhtus/vimconf-live-2021 (presentation and demo)
 https://github.com/bruhtus/dotfiles/tree/master/.vim (vim config)
 https://github.com/bruhtus/vimrc (one-file and minimal version of vim config)
-https://github.com/bruhtus/dotfiles/blob/master/.vim/after/autoload/pack.vim (plugins that I used)
 https://github.com/k-takata/minpac (plugin manager that I used)
 https://vi.stackexchange.com/a/2363/34851 (mapping alt in vanilla vim)
 
