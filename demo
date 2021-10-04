@@ -13,6 +13,7 @@ Others:
 `:h :map-alt-keys` (more info about alt key mapping)
 <M-...> alt or meta key
 <A-...> same as <M-...>
+if has('nvim') | help i_META | endif
 
 RESOURCES
 
