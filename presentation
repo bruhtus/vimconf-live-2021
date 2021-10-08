@@ -14,9 +14,11 @@ it's showtime!
 
 the weird alt-a
 
-suggestion
 " Ref: https://vi.stackexchange.com/a/2363/34851
 if !has('nvim') | execute "set <M-a>=\ea" | endif
 inoremap <M-a> <C-o>a
 
+" Special Thanks:
+" ABD and other vimconf live 2021 crew
+" Arjuna D. P.
 endslide
