@@ -8,7 +8,11 @@ why?
 
 how?
 - alt or meta key + normal mode command
-- ctrl-o
+- ctrl-o insert mode command
+
+the difference between
+alt key + normal mode command
+and ctrl-o insert mode command
 
 it's showtime!
 
