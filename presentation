@@ -25,4 +25,5 @@ inoremap <M-a> <C-o>a
 " Special Thanks:
 " ABD and other vimconf live 2021 crew
 " Arjuna D. P.
+" Anton Kastritskiy
 endslide
