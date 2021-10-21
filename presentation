@@ -2,6 +2,13 @@ a quick way to
 access normal mode command
 from insert mode
 
+whoami
+- graduated from mathematics department last year
+- vim experience:
+  - 1.5 years in space-vim by liuchengxu
+  - 0.5 year configure my own vim config
+- github.com/bruhtus || diawan@pm.me
+
 why?
 - convenient
 - break the undo sequence easily
@@ -9,6 +16,8 @@ why?
 how?
 - alt or meta key + normal mode command
 - ctrl-o insert mode command
+
+alt key + normal mode command
 
 the difference between
 alt key + normal mode command
