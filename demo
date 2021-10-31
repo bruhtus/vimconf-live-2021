@@ -8,6 +8,14 @@ https://github.com/k-takata/minpac (plugin manager that I used)
 https://vi.stackexchange.com/a/2363/34851 (mapping alt in vanilla vim)
 
 Key bindings:
+Alt-Shift-O
+Alt-Shift-I
+Alt-Shift-A
+Alt-Shift-S
+Alt-O
+Alt-I
+Alt-U
+Alt-A
 
 Others:
 `:h :map-alt-keys` (more info about alt key mapping)
@@ -17,5 +25,10 @@ if has('nvim') | help i_META | endif
 
 RESOURCES
 
+function vim() {
+  echo 'vimconf live 2021'
+  echo 'something like this'
+  echo 'first' 'second'
+}
 
 # vim:ft=sh et sta smd ls=1 sw=2 sts=-69
